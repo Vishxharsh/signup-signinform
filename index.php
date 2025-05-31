@@ -78,7 +78,7 @@
         <input type="submit" value="Sign Up" name="signup" id="signup">
     <!-- <input type="submit" value="Sign In" name="signin" id="signin">-->
 
-        <p style="margin-top: 10px;">Already Hve an Account ? <a href="#" onclick="signinForm()" style="text-decoration: none;font-weight: 600;">Sign In</a></p>
+        <p style="margin-top: 10px;">Already Have an Account ? <a href="#" onclick="signinForm()" style="text-decoration: none;font-weight: 600;">Sign In</a></p>
     </form>
   </div>
     
