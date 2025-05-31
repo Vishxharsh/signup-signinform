@@ -12,11 +12,10 @@
             box-sizing: border-box;
         }
         .signUpForm{
-          border-radius: 20px;
-          background-color: aquamarine;
+          border-radius: 5px;
             width:350px;
             height:350px;
-            border: 5px inset;
+            border: 10px inset;
             padding: 50px;
             position: absolute;
             top: 50%;
@@ -26,10 +25,10 @@
         }
         .signInForm{
           border-radius: 20px;
-          background-color: rgb(23, 234, 234);
+          background-color: rgb(189, 234, 234);
             width:350px;
             height:300px;
-            border: 5px inset;
+            border: 10px inset;
             padding: 50px;
             position: absolute;
             top: 50%;
@@ -84,7 +83,7 @@
     
   <!-- sign in form after clicking on sign in  -->
 
-  <div class="signInForm" id="signInForm">
+  <div class="signInForm" id="signInForm">   
       <form action="" method="post">
 
         <label for="email">Email</label><br>
